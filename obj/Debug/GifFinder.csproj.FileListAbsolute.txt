@@ -1,0 +1,13 @@
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\bin\Debug\GifFinder.exe.config
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\bin\Debug\GifFinder.exe
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\bin\Debug\GifFinder.pdb
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\obj\Debug\GifFinder.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\obj\Debug\GifFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\obj\Debug\GifFinder.GifFinder.resources
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\obj\Debug\GifFinder.SearchForm.resources
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\obj\Debug\GifFinder.ImageForm.resources
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\obj\Debug\GifFinder.Properties.Resources.resources
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\obj\Debug\GifFinder.csproj.GenerateResource.cache
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\obj\Debug\GifFinder.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\obj\Debug\GifFinder.exe
+C:\Users\Wiz\Desktop\IGME 201\GifFinder\obj\Debug\GifFinder.pdb
